@@ -1,1 +1,1 @@
-# Virtual-Coffee-MAchne-by-Sarang
+# Virtual-Coffee-Machine-by-Sarang OpenCV 
